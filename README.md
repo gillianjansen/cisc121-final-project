@@ -4,6 +4,8 @@ I chose binary search as an algorithm because it is a highly efficient model for
 
 ## Demo Video
 
+https://github.com/user-attachments/assets/645e615a-4846-404f-be4d-6c913e369718
+
 ## Problem Breakdown & Computational Thinking
 
 The binary search algorithm, given a sorted list of book titles and a target title which can be compared alphabetically, is done as follows:
